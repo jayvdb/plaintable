@@ -9,7 +9,7 @@ setup(
     version=plaintable.__version__,
     description='A simple library to build plain text tables',
     long_description=long_description,
-    url='https://github.com/rumpelsepp/plaintable',
+    url='https://github.com/jonathaneunice/plaintable',
     author='Stefan Tatschner',
     author_email='stefan@sevenbyte.org',
     license=plaintable.__license__,
